@@ -1,0 +1,25 @@
+<h1><h1>.........: Cabeçalho.
+<hr>.............: Cria linha horizontal.
+<p></p>..........: Paragrafo.
+<b></b>..........: Negrito (não semântica).
+<strong></strong>: Negrito (semântica).
+<i></i>..........: Itálico (não semantica).
+<em></em>........: Itálico (semântica).
+<mark></mark>....: Marca texto.
+<small></small>..: Palavra pequena.
+<del></del>......: Palavra com traço no meio.
+<ins></ins>......: Sublinhado.
+<u></u>..........: Sublinhado (não semantica).
+<sup></sup>......: Texto sobrescrito EX.: númeri elevado.
+<sub></sub>......: Texto subscrito.
+<code></code>....: Formata as letrar para terem o mesmo espaçamento.
+<pre></pre>......: Mantem a mesma identação da IDE.
+<q></q>..........: Acrescenta aspa dupla(usado para citação simples)
+<blockquote></blockquote>: Citação maior.
+<abbr></abbr>....: Significado para sigla.
+<ol></ol>........: Lista ordenada.
+<ul></ul>........: Lista não-ordenada.
+<li></li>........: Lista de elementos de uma lista.
+<dl></dl>........: Lista de definição 
+<dt></dt>........: Termo
+<dd></dd>........: Descrição

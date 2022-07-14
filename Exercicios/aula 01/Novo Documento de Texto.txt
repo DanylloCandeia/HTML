@@ -1,0 +1,5 @@
+<h1><h1>: Cabeçalho
+<hr>....: Cria linha horizontal
+<p></p>.: Paragrafo
+<br>....: Quebra de linha no parágrafo
+&#xCode.: Colocar emoji{Code= codigo emojipedia. EX:&#x1F600}

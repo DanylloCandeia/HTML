@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 07</title>
+    <style>
+        *{text-align: center;}
+    </style>
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>Voce está vendo uma imagem completa? Experimente ampliar o tamnho da sua janela para aproveitar melhor a experiência</p>
+   
+    <picture>
+        <source media="(max-width: 750px)" srcset="Imagens/desafio07/paisagem-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="Imagens/desafio07/paisagem-m.png" type="image/png">
+        <img src="Imagens/desafio07/paisagem-g.png" alt="Imagem variavel">
+    </picture>
+</body>
+</html>

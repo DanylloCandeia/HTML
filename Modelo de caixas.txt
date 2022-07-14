@@ -1,0 +1,31 @@
+height - Altura
+width - Largura
+border - Borda
+padding - espaco interno da borda
+margin - espaço externo da borda
+outline - contorno
+
+BOX-LEVEL
+	<div>
+	<h1> - <h6>
+	<p>
+	<main>
+	<header>
+	<nav>
+	<article>
+	<aside>
+	<footer>
+	<form>
+	<video>
+
+INLINE-LEVEL
+	<span>
+	<a>
+	<code>
+	<small>
+	<em>
+	<sup>-<sub>
+	<label>
+	<botton>
+	<input>
+	<select>
