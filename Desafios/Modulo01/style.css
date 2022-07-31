@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body#main{
+    color: gray;
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+#verde{
+    color: green;
+    background-color: rgba(144, 238, 144, 0.5);
+}
+
+#amarela{
+    color: rgb(124, 124, 0);
+    background-color: lightyellow;
+}
