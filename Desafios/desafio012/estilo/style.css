@@ -55,6 +55,10 @@ section{
     font-family: var(--fonte3);
 }
 
+section > p{
+
+}
+
 section.normal{
     background-color: white;
     color: black;
